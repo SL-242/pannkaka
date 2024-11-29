@@ -1,1 +1,3 @@
 #readme
+This is in preparation for a course in frontend development@Lexicon.
+Please note this is a learning process...
